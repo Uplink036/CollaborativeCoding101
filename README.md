@@ -3,7 +3,18 @@
 
 It Works on My Machine": Docker, GitHub, and DevContainers for Collaborative Code Consistency  Well, we can't sell your machine, but we can certainly sell your code! This workshop focuses on developing with Docker, GitHub, and DevContainers, guiding you in integrating these tools into your ongoing projects.
 
+## Containers
+### What is a container
+### Containers and the cloud
 
+## Docker 
+### Docker images
+### Docker files
+
+## DevContainers
+### What is a dev container? 
+### Setting up a dev container
+### Customizing DevContainers
 
 ## License
 
