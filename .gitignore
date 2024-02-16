@@ -1,0 +1,2 @@
+# Ignore pycache created from docker compose example
+*__pycache__
